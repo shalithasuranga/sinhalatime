@@ -1,0 +1,11 @@
+{
+  "name": "sinhalatime",
+  "version": "1.0.0",
+  "description": "Simple package for testing npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index"
+  },
+  "author": "shalithasuranga",
+  "license": "MIT"
+}
