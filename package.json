@@ -1,11 +1,15 @@
 {
   "name": "sinhalatime",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simple package for testing npm registry",
   "main": "index.js",
   "scripts": {
     "test": "node test/index"
   },
   "author": "shalithasuranga",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shalithasuranga/sinhalatime.git" 
+  }
 }
